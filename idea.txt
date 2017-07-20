@@ -1,0 +1,65 @@
+输出syso是eclipse中使用，在idea中是sout；
+
+Ctrl+Alt+T，可以把代码包在一个块内，例如：try/catch
+Ctrl+Alt+L，格式化代码
+Ctrl+Alt+left/right，返回至上次浏览的位置
+Ctrl+Alt+Space，类名自动完成
+Ctrl+Alt+V，可以引入变量。例如：new String();  自动导入变量定义
+Ctrl+Alt+O，优化导入的类和包
+Ctrl+Alt+B，跳转到方法实现处
+Ctrl+Alt+T，单元测试，创建单元测试用例。
+
+Ctrl+Shift+Up/Down，向上/下移动语句
+Ctrl+Shift+F，全局查找
+Ctrl+Shift+N，可以快速打开文件，所有类型文件
+ctrl + shift +f12:最大化窗口
+
+Alt+left/right，切换代码视图
+Alt+Up/Down，在方法间快速移动定位
+Alt+F3，逐个往下查找相同文本，并高亮显示
+Alt+Insert：在类中时可以生成构造器/Getter/Setter等，在文件夹上则是创建文件、类、包等操作
+alt + . :提示代码，即补全代码，自定义的，idea原定义为
+Alt + enter: 快速修复
+F2/ Shift+F2：移动到有错误的代码
+Alt + F7：要找类或方法的使用，需要在相应的方法名上使用该快捷键
+
+Ctrl+G，定位行
+Ctrl+R，替换文本
+Ctrl+N，可以快速打开类，只能打开类文件,Ctrl+Shift+N，可以快速打开文件，所有类型文件
+ctrl + x（也是剪切该行操作） 
+ctrl + y  删除一行
+ctrl + d 复制一行
+ctrl + w：自动安语法选中代码，ctrl+shift+w:反向
+Ctrl+B/Ctrl+Click，快速打开光标处的类或方法（跳转到定义处）
+ctrl + j:可以查看所有快捷模板，如fore、inn、ifn、fixme等
+ctrl + h:打开类的层次窗口，类的继承关系
+在继承层次上跳转则用Ctrl+B/Ctrl+Alt+B分别对应父类或父方法定义和子类或子方法实现
+ctrl + backspace： 删除当前单词
+Ctrl+E/Ctrl+Shift+E 打开最近打开过的或编辑过的文件
+ctrl + F12: 打开该类文件中的所有方法，eclipse中的ctrl+o
+Ctrl+F7，可以查询当前元素在当前文件中的引用，然后按 F3 可以选择
+ctrl + F4，关闭当前编辑的文件
+ctrl + f5, 重新启动tomcat
+ctrl + left/right:移动光标到前/后单词
+ctrl + [ 或 ]：移动光标到代码块前后
+查找文本的出现位置就用Ctrl+F/Ctrl+Shift+F在当前窗口或全工程中查找，再配合F3/Shift+F3前后移动到下一匹配处。
+切换窗口：Alt+Num，常用的有1-项目结构，3-搜索结果，4/5-运行调试。Ctrl+Tab切换标签页，Ctrl+E/Ctrl+Shift+E打开最近打开过的或编辑过的文件。
+
+Ctrl+Shift+Space，自动补全代码
+Ctrl+Shift+Alt+N，查找类中的方法或变量
+Ctrl+Shift+J，整合两行为一行 
+Ctrl+Shift+Backspace，跳转到上次编辑的 地方
+Ctrl+Shift+Enter就能自动补全末尾的字符。而且不只是括号，例如敲完if/for时也可以自动补上{}花括号
+Ctrl+Shift+A可以查找所有Intellij的命令，并且每个命令后面还有其快捷键
+ctrl + shift + '+/-':折叠所有方法，ctrl + ‘+/—’，折叠光标所在方法
+
+shift + F6: 改名字
+shift + shift：快速查找所有文件，包括类、资源、配置项、方法等等
+shift + esc: 最小化project或是下面的窗口
+fori/sout/psvm + tab 即可生成循环							
+inn 回车就是 if ( xx != null) 
+for(User user : users)只需输入user.for+Tab。再比如，要输入Date birthday = user.getBirthday();只需输入user.getBirthday().var+Tab即可
+运行：Alt+Shift+F10运行程序，Shift+F9启动调试，Ctrl+F2停止
+
+Ctrl+Shift+Alt+T 重构功能大汇总快捷键
+
